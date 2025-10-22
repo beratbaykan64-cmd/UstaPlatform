@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\bin\Debug\net8.0\UstaPlatform.Rules.Default.deps.json
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\bin\Debug\net8.0\UstaPlatform.Rules.Default.dll
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\bin\Debug\net8.0\UstaPlatform.Rules.Default.pdb
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\bin\Debug\net8.0\UstaPlatform.Core.dll
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\bin\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\bin\Debug\net8.0\UstaPlatform.Core.pdb
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\bin\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\obj\Debug\net8.0\UstaPlatform.Rules.Default.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\obj\Debug\net8.0\UstaPlatform.Rules.Default.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\obj\Debug\net8.0\UstaPlatform.Rules.Default.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\obj\Debug\net8.0\UstaPlatform.Rules.Default.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\obj\Debug\net8.0\UstaPlatform.Rules.Default.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\obj\Debug\net8.0\UstaPlat.A328C50D.Up2Date
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\obj\Debug\net8.0\UstaPlatform.Rules.Default.dll
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\obj\Debug\net8.0\refint\UstaPlatform.Rules.Default.dll
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\obj\Debug\net8.0\UstaPlatform.Rules.Default.pdb
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.Default\obj\Debug\net8.0\ref\UstaPlatform.Rules.Default.dll

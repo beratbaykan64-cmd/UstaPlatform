@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\bin\Debug\net8.0\UstaPlatform.Rules.LoyaltyDiscount.deps.json
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\bin\Debug\net8.0\UstaPlatform.Rules.LoyaltyDiscount.dll
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\bin\Debug\net8.0\UstaPlatform.Rules.LoyaltyDiscount.pdb
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\bin\Debug\net8.0\UstaPlatform.Core.dll
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\bin\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\bin\Debug\net8.0\UstaPlatform.Core.pdb
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\bin\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\obj\Debug\net8.0\UstaPlatform.Rules.LoyaltyDiscount.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\obj\Debug\net8.0\UstaPlatform.Rules.LoyaltyDiscount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\obj\Debug\net8.0\UstaPlatform.Rules.LoyaltyDiscount.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\obj\Debug\net8.0\UstaPlatform.Rules.LoyaltyDiscount.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\obj\Debug\net8.0\UstaPlatform.Rules.LoyaltyDiscount.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\obj\Debug\net8.0\UstaPlat.BA9CC233.Up2Date
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\obj\Debug\net8.0\UstaPlatform.Rules.LoyaltyDiscount.dll
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\obj\Debug\net8.0\refint\UstaPlatform.Rules.LoyaltyDiscount.dll
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\obj\Debug\net8.0\UstaPlatform.Rules.LoyaltyDiscount.pdb
+C:\Users\lenovo\source\repos\UstaPlatform\UstaPlatform.Rules.LoyaltyDiscount\obj\Debug\net8.0\ref\UstaPlatform.Rules.LoyaltyDiscount.dll
